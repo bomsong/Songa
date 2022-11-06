@@ -6,6 +6,6 @@ import com.Sahithi.app.RestAPI.Expense.ExpenseService;
 
 public class webconfig {
 	
-	
+	private	String test = "hello";
 	
 }
